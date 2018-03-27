@@ -1,8 +1,10 @@
 [package]
-name = "modCalc"
+name = "mod_calc"
 version = "0.1.0"
 authors = ["Angelonfira <wizcardforest@gmail.com>"]
 
 [dependencies]
 mod_pow = {git = "https://github.com/kunerd/mod_pow"}
+modexp = "0.2.2"
 num = "0.1.42"
+ramp = "0.3.12"

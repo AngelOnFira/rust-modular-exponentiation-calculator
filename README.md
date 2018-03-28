@@ -3,7 +3,7 @@
 ## Description
 
 This is a tool to brute force the exponent needed to satisfy the equation\
-'base ^ x % modulus = remainder'
+`base ^ x % modulus = remainder`
 
 It is useful for CTFs, and factoring different types of encryption. This implementation currently takes around 3 seconds to evaluate a million values.
 

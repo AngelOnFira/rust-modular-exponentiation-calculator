@@ -8,3 +8,4 @@ mod_pow = {git = "https://github.com/kunerd/mod_pow"}
 modexp = "0.2.2"
 num = "0.1.42"
 ramp = "0.3.12"
+rand = "0.4.2"
